@@ -12,13 +12,4 @@ Reproducible pipeline for an academic paper combining:
 **Main language:** R  
 **Main working dataset object:** `dt`
 
----
 
-## Repo structure (overview)
-
-cd /c/Users/ivana/Documents/GitHub/paper-bb-aid-mlm
-git status
-
-git add README.md
-git commit -m "Update README"
-git push
